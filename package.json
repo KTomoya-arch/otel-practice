@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "@opentelemetry/auto-instrumentations-node": "^0.41.1",
+    "@opentelemetry/exporter-trace-otlp-http": "^0.48.0",
     "@opentelemetry/sdk-node": "^0.48.0",
     "@types/express": "^4.17.21",
     "@types/node": "^20.11.17",
